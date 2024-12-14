@@ -13,8 +13,8 @@
 - main.py - обучение yolo-v11 
 
 <div>
-  <img src="../datasets/train_data/images/train/0000_FV.png" alt="Описание изображения 1" width="200">
-  <img src="../datasets/train_data/images/train/1_1709104681_0.png" alt="Описание изображения 3" width="200">
+  <img src="datasets/train_data/images/train/0000_FV.png" alt="Описание изображения 1" width="200">
+  <img src="datasets/train_data/images/train/1_1709104681_0.png" alt="Описание изображения 3" width="200">
 </div>
 
 
